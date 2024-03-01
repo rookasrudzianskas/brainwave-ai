@@ -52,4 +52,4 @@ const Pricing = () => {
 };
 
 export default Pricing;
-:🚀By Rookas
+// 🚀By Rookas
